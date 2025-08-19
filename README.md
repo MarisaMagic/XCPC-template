@@ -17,7 +17,7 @@
 
 每个 `.cpp` 文件中一般都包含 1 个例题，例题主要来源于 [luogu](https://www.luogu.com.cn/)，少部分来源于 [AtCoder](https://atcoder.jp/)、[CodeForces](https://codeforces.com/) 等。
 
-大部分算法模板的前身都是从 [AcWing](https://www.acwing.com/) 学来的（在 AcWing 上可以学习算法基础，但也仅限基础哦），后续自己在 [luogu](https://www.luogu.com.cn/) 、[CodeForces](https://codeforces.com/) 等平台刷题、打网赛的过程中学习到了其他大神的一些技巧和写法，最终慢慢演变成自己的算法模板。 
+比较基础的算法模板前身主要来源于 [AcWing](https://www.acwing.com/)（在 AcWing 上可以学习算法基础，但也仅限基础哦），比较进阶的算法和数据结构主要从 [OI wiki](https://oi-wiki.org/) 上学来的。后续自己在 [luogu](https://www.luogu.com.cn/) 、[CodeForces](https://codeforces.com/) 等平台刷题、打网赛的过程中学习到了其他大神的一些技巧和写法，最终慢慢演变成自己的算法模板。 
 
 有一些模板分别整理了 C 风格版本 和 C++ 风格版本（C++ 风格版本其实就是用 class 类封装起来）。
 
